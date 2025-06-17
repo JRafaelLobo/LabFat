@@ -30,13 +30,13 @@ La FAT (File Allocation Table) es una estructura de datos usada por varios siste
 1. Compila el programa:
 
 ```bash
-g++ -o simulador_fat simulador_fat.cpp
+-std=c++17 -Wall -I include src/FAT.cpp -o bin/app
 ```
 
 2. Ejecuta el programa:
 
 ```bash
-./simulador_fat
+./bin/app"
 ```
 
 3. Usa el menú interactivo:

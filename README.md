@@ -36,7 +36,7 @@ La FAT (File Allocation Table) es una estructura de datos usada por varios siste
 2. Ejecuta el programa:
 
 ```bash
-./bin/app"
+./bin/app
 ```
 
 3. Usa el menú interactivo:
